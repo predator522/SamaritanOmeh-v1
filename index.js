@@ -1,4 +1,5 @@
 require('dotenv').config();
+require('./telegram/bot');
 const startTelegramBot = require('./telegram/telegram');
 const startWhatsAppBot = require('./whatsapp/whatsapp');
 
