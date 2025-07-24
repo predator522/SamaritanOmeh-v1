@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
     "telegraf": "^4.12.2",
     "express": "^4.18.2",
     "pino": "^8.0.0",
